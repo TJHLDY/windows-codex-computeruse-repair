@@ -12,6 +12,8 @@ the known `@oai/sky@0.4.10` exports mismatch.
 This is Windows-only. Do not use this skill for macOS, Linux, ChatGPT web, or
 non-Windows Codex environments.
 
+Inspiration: this community skill was inspired by Douyin creator whl.
+
 Do not present this as a universal Computer Use unlocker. It does not fix
 account entitlement, regional rollout, feature flags, enterprise policy,
 antivirus blocks, unsupported Codex versions, or native service failures after

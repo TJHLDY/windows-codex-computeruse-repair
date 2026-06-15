@@ -4,6 +4,8 @@
 
 中文：**仅支持 Windows 版 Codex Desktop。Mac、Linux、网页版 ChatGPT 不适用。**
 
+灵感来源：抖音博主 **whl**。
+
 Unofficial community repair skill and scripts for a narrow set of Windows
 Codex Desktop Computer Use and Chrome plugin loading issues.
 
