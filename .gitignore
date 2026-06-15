@@ -1,0 +1,12 @@
+# Local repair output
+openai-bundled-fixed*/
+*.bak
+*.bak-*
+*.log
+
+# Local editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
